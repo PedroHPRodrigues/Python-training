@@ -9,7 +9,6 @@ This repo is used to track my learning process in Python through:
 * Exercises
 * Logic training
 * Small projects
-* Experiments
 
 **The goal is to improve by practicing consistently.**
 
